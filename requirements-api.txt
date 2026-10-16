@@ -1,0 +1,18 @@
+# Light install: everything the API needs to run (no torch / geopandas / matplotlib / folium)
+numpy>=1.24
+pillow>=10.0
+rasterio>=1.3
+fastapi>=0.100
+uvicorn[standard]>=0.23
+scikit-learn>=1.3
+python-multipart>=0.0.6
+requests>=2.31
+pydantic>=2.0
+scipy>=1.11
+shapely>=2.0
+pyproj>=3.6
+openai>=1.40
+anthropic>=0.40
+langsmith>=0.2
+python-dotenv>=1.0
+pytest>=8.0
