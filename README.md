@@ -116,19 +116,7 @@ peshawar-green-heat/
 ├── docs/
 ├── Dockerfile
 ├── requirements.txt
-└── README.md
-```
-
-## Timeline (to 17 Oct)
-
-- [x] Thin pipeline: map in → green-cover out (NDVI)
-- [x] Hand-label path + TinyUNet training loop
-- [x] Temperature link + spatial hold-out
-- [x] Optimiser, agent, retrieval (vetted list), approval
-- [x] FastAPI, Docker
-- [ ] Real hand labels (~100 tiles) + final eval tables
-- [ ] Simple map front-end (Folium / Leaflet)
-- [ ] Report, video, slides
+└── README
 
 ## Citations / prior work
 
