@@ -89,14 +89,7 @@ Planetary Computer STAC is free and requires no key for search; SAS signing is u
 2. Does green cover explain LST on **neighbourhood** hold-outs (not random pixels)? Report R² and caveat that this is correlation, not causal proof of planting cooling.
 3. Cooling estimates carry an uncertainty range derived from model fit quality; public thermal data is coarse (~100 m).
 
-## 60-second demo script
 
-1. Show heat map of Peshawar (or the `/demo/overview` synthetic field).
-2. Zoom / highlight a hot, low-green neighbourhood.
-3. Call “plan with this budget”.
-4. Map shows chosen blocks + predicted cooling ± uncertainty.
-5. Agent explains trade-offs, cites species from the vetted list, asks officer to approve.
-6. Flash the validation numbers (baseline vs model, hold-out R²).
 
 ## Project layout
 
